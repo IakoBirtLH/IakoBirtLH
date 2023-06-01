@@ -2,6 +2,7 @@
 
 This is my BirtLH student profile.
 
+![IakoBirt's GitHub stats](https://github-readme-stats.vercel.app/api?username=IakoBirtLH&show_icons=true&theme=gruvbox)
 ![](https://github.-readme-stats.vercel.app/api?username=IakoBirtLH)
 
 <!--
